@@ -82,7 +82,7 @@ form .input-group.success input{
     body{
         background-color: #fff;
         display: flex;
-        justify-content: flex-start;
-        align-items: baseline;
+        justify-content: center;
+        align-items: center;
     }
 }
